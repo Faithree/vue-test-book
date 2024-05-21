@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`测试 expect   > test toMatchSnapshot 1`] = `
+{
+  "analysis": "analysis alias",
+  "domain": "domain",
+  "url": "被修改了",
+}
+`;
